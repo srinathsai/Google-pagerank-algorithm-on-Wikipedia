@@ -16,10 +16,10 @@ It is name of an algorithm in which Google uses it's own formula for ranking web
 * After performing iterations the page with highest rank will be displayed first.
 
 ## Dataset used :- 
-A huge dataset of 40k Wikipedia articles with 1 million hyperlinks are used for output and mini dataset of 2k wikipedia articles with 100k hyperlinks are used for building the model and testing purposes.
+A huge dataset of 40k Wikipedia articles with 1 million hyperlinks ***(which is in dataset.zip)*** are used for output and mini dataset of 2k wikipedia articles with 100k hyperlinks ***(which is in dataset-mini.zip)*** are used for building the model and testing purposes.
 
 ## Model implementation and outputs :- 
 * How the model is implemented is well documented in code in form of comments.
-* Top 25 pages with ranks are displayed as output implying they would appear most often in reccomender systems of Google search engine.
+* Top 25 pages with ranks are displayed as output implying they would appear most often in recommender systems of Google search engine.
 
 
