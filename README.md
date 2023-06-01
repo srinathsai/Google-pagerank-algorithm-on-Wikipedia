@@ -1,4 +1,4 @@
-# Google-pagerank-algorithm-on-Wikipedia
+# Website recommendation using Google page rank 
 
 ## Introduction :-
 While searching in Google, have you wondered how Google shows up certain websites at top of the other websites? Well if you haven't wondered, this project covers one of the most  interesting algorithm called ***Pagerank***  which plays crucial role in the **recommendation of websites by Google**. 
